@@ -1,0 +1,10 @@
+first_name = "Zohaib";
+last_name = "Shahzad";
+full_name = first_name +" " + last_name;
+age = 25;
+orignal_number = 10;
+modulus = 9 % 3;
+new_number = orignal_number + 10;
+print(full_name);
+print("I am " + str(age) + " years old");
+print(modulus);
